@@ -1,7 +1,7 @@
 # Licence Plate Generating Program
 This program will enable a user to receive a randomized licence plate.
 
-The user can decide whether they would prefer a randomized 6 digit licence plate of numbers or letters.
+For this feature the user will receive a licence plate containing 6 randomized letters from A-Z.
 
-# Liscence plate letter example:
+# Licence plate letter example:
 AHJKLA
