@@ -1,4 +1,4 @@
-# Individual-Exercise-499
+# COSC499 Individual Exercise
 
 # Licence Plate Generating Program
 This program will enable a user to receive a randomized licence plate.
