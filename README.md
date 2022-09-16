@@ -1,12 +1,7 @@
-# Individual-Exercise-499
+# Licence Plate Generating Program
+This program will enable a user to receive a randomized licence plate.
 
-# Liscence Plate Generating Program
-This program will enable a user to receive a randomized liscence plate.
+For this feature the user will receive a licence plate containing 6 randomized letters from A-Z.
 
-The user can decide whether they would prefer a randomized 6 digit liscence plate of numbers or letters.
-
-# Liscence plate number example:
-557842
-
-# Liscence plate letter example:
+# Licence plate letter example:
 AHJKLA
